@@ -1,0 +1,15 @@
+<template>
+<head>
+<h1 align = "center">Portal</h1>
+</head>
+<!--<div align = "center"> <img src.bind="image"  > </div>-->
+<!--<div css="background-image: url('http://localhost:2112/src/assests/${newsItem.Image}'); background-size: cover; height: 650px;">-->
+<div style="background-color:powderblue;">
+<ul>
+	<li repeat.for= "row of router.navigation">
+	<a href.bind="row.href">${row.title}</a>
+	</li>
+</ul>	
+<router-view></router-view>
+</div>
+</template>

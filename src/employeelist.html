@@ -1,0 +1,10 @@
+<template>
+<table align = "left">
+ <tr repeat.for = "employee of employees">
+  <!--<td><a route-href= "route.bind: employee-details; params.bind:{id:employee.id}" > ${employee.name}</br> ${employee.designation} </a> </td>-->
+  <!--<td><a route-href= "route.bind: route.edit ; params.bind:{id:employee.id}" > EDIT </a> </td>-->
+  <td><a href.bind = "employee.href">${employee.name}</a> </td>
+
+ </tr>
+</table>
+</template>

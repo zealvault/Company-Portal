@@ -1,0 +1,38 @@
+[
+  {
+   "id":2,
+   "name" : "Shruti Singh",
+   "designation" :"Software Developer",
+   "experience" :"5 Months"
+   },
+  {
+   "id":2,
+   "name" : "Vishal Singh",
+   "designation" :"Software Developer",
+   "experience" :"5 Months"
+   },
+  {
+   "id":3,
+   "name" : "Saurabh Mahajan",
+   "designation" :"Senior Software Developer",
+   "experience" :"10 Years"
+   },
+  {
+   "id":4,
+   "name" : "Nayab Siddiqui",
+   "designation" :"Senior Software Developer",
+   "experience" :"8 Years"
+   },
+  {
+   "id":5,
+   "name" : "Sheetal Deshpande",
+   "designation" :"Quality Assurance",
+   "experience" :"8 Years"
+   },
+  {
+   "id":6,
+   "name" : "Deepak Verma",
+   "designation" :"Front End Developer",
+   "experience" :"8 Years"
+   }
+ ]
